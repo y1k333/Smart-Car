@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>invincible/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>354</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Workspace>
+    <Build><PreferedWindows><Position>4</Position><ScreenPosX>7</ScreenPosX><ScreenPosY>704</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window><Window><Factory>Select-Ambiguous-Definitions</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build><TerminalIO/><Debug-Log><PreferedWindows><Position>4</Position><ScreenPosX>7</ScreenPosX><ScreenPosY>704</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Select-Ambiguous-Definitions</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log><Select-Ambiguous-Definitions><PreferedWindows><Position>4</Position><ScreenPosX>7</ScreenPosX><ScreenPosY>704</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows><ColumnWidth0>496</ColumnWidth0><ColumnWidth1>70</ColumnWidth1><ColumnWidth2>850</ColumnWidth2></Select-Ambiguous-Definitions></Static>
+    <Windows>
+      
+    <Wnd0><Tabs><Tab><Identity>TabID-21606-11362</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-47-16064</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-14411-7463</Identity><TabName>Ambiguous Definitions</TabName><Factory>Select-Ambiguous-Definitions</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd0></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\App\Inc\include.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>100</YPos2><SelStart2>3664</SelStart2><SelEnd2>3664</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\App\MK60_it.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>1092</SelStart2><SelEnd2>1092</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\App\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>2072</SelStart2><SelEnd2>2072</SelEnd2></Tab><ActiveTab>2</ActiveTab></Pane><Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\App\All_config.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>78</YPos2><SelStart2>2967</SelStart2><SelEnd2>2967</SelEnd2></Tab><ActiveTab>0</ActiveTab></Pane><ActivePane>1</ActivePane><Sizes><Pane><X>486768</X><Y>1000000</Y></Pane><Pane><X>513231</X><Y>1000000</Y></Pane></Sizes><SplitMode>4</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-04d61d80><key>iaridepm.enu1</key></Toolbar-04d61d80></Sizes></Row0></Top><Left><Row0><Sizes/></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>41</Bottom><Right>1442</Right><x>-2</x><y>-2</y><xscreen>1444</xscreen><yscreen>43</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>51995</sizeHorzCY><sizeVertCX>138889</sizeVertCX><sizeVertCY>244256</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
